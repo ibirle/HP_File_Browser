@@ -1,3 +1,5 @@
+This Project was completed as part of a group for my cs320 class. We were given a project from a HPE employee and for the entire semester worked using AGILE methodology to complete the project.
+
 # FileSublime
 
 ### Product Vision Statement
